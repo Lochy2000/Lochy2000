@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on websites, courses, design and creating.
 - 📫 How to reach me lochlann_oht@hotmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: There’s enough gold inside Earth to coat the planet.
+- ⚡ Fun fact: Octopuses have three hearts and blue blood, but they only live for about 1-2 years. Even more poignant, after a mother octopus lays her eggs, she stops eating and dies shortly after they hatch.
 
 <!---
 Lochy2000/Lochy2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
