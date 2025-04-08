@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Lochy2000
-- 👀 I’m interested in web development, design, games, ocean research and diving.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on websites, courses, design and creating.
-- 📫 How to reach me lochlann_oht@hotmail.com or [easywebs.uk](https://www.easywebs.uk/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Octopuses have three hearts and blue blood, but they only live for about 1-2 years. After a mother octopus lays her eggs, she stops eating and dies shortly after they hatch. Crazy ol world.
+## 👋 Hey, I'm Lochlann
+
+💻 Full Stack Web Developer | UX-Focused | React & WordPress  
+🎓 Code Institute Graduate | 2+ years frontend experience  
+🌍 Remote-ready | Based in London, UK  
+
+### 🧠 Skills
+- Frontend: HTML, CSS, JS, React, TypeScript, Tailwind
+- Backend: Python, Flask, Node, REST APIs
+- CMS: WordPress, Wix
+- Tools: Git, GitHub, Supabase, Cloudinary, DigitalOcean, Stripe/PayPal
+
+### 🚀 Projects
+Check out [easyweb](https://github.com/Lochy2000/easyweb) – A clean, responsive React/Tailwind website.  
+Explore [frenticfocus](https://github.com/Lochy2000/frenticfocus) – A drag-and-drop WordPress theme builder.
+
+📬 Reach me: lochlann_oht@hotmail.com
+
 
 <!---
 Lochy2000/Lochy2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
