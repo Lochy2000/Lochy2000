@@ -11,7 +11,7 @@
 - Tools: Git, GitHub, Supabase, Cloudinary, DigitalOcean, Stripe/PayPal
 
 ### 🚀 Projects
-Check out [easyweb](https://github.com/Lochy2000/easyweb) – A clean, responsive React/Tailwind website.  
+Check out [easyweb](https://easywebs.uk) – A clean, responsive React/Tailwind website.  
 Explore [frenticfocus](https://github.com/Lochy2000/frenticfocus) – A drag-and-drop WordPress theme builder.
 
 📬 Reach me: lochlann_oht@hotmail.com
