@@ -16,7 +16,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/python.png" alt="Python" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/django.png" alt="Django" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/tailwindcss.png" alt="TailwindCSS" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30"/>
 </p>
