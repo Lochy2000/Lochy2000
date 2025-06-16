@@ -1,44 +1,61 @@
-
 # 👋 Hey, I'm Lochlann
 
 🎯 **Frontend Developer | AI-Augmented Builder | Hackathon Winner**  
 💡 Self-taught & Code Institute Grad | Passionate about automation & real-world tooling  
 🌍 Remote-ready · Based in London, UK
 
----
-
-## 🔧 Tech Stack  
-**Frontend**: React, TypeScript, Tailwind, HTML5, CSS3  
-**Backend**: Python, Django, Flask, FastAPI  
-**Automation**: Zapier, Velo, AI agent tooling (LLMs, FastAPI, Gemini API)  
-**CMS**: WordPress, Wix  
-**Databases & Tools**: Supabase, Firebase, DigitalOcean, GitHub, Cloudinary, Stripe/PayPal
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lochy-dev)
+[![GitHub followers](https://img.shields.io/github/followers/Lochy2000?label=Follow&style=social)](https://github.com/Lochy2000)
+![Profile Visits](https://profile-counter.glitch.me/Lochy2000/count.svg)
 
 ---
 
-## 🛠️ Projects
-**[easywebs.uk](https://easywebs.uk)** – Clean, responsive React/Tailwind site for my freelance studio  
-**[Boost.dev](https://github.com/Lochy2000/boost.dev)** – Hackathon-winning mental wellness app for devs (LLM + FastAPI)  
-**[HustleDev](https://github.com/Lochy2000)** – AI-powered idea generator for developer side hustles  
-**[FreneticFocus](https://github.com/Lochy2000/frenticfocus)** – Drag-and-drop WordPress theme for creatives  
-**[AlgoranAnarchy](https://github.com/Lochy2000)** – Blockchain dashboard & token tracker (React + Algorand APIs)
+## 🔧 Tech Snapshot
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/python.png" alt="Python" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/django.png" alt="Django" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/tailwindcss.png" alt="TailwindCSS" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30"/>
+</p>
 
 ---
 
-## 🚀 About Me
-After earning a First-Class degree in Sport Science, I pivoted into tech and have since delivered real-world projects across freelance work, startups, and AI hackathons. I focus on building intuitive UIs, smart workflows, and automation-first platforms.
+## 🛠️ Featured Projects
 
-I’m currently exploring AI-enhanced tooling using multi-agent systems, LLM APIs, and internal dev ops workflows. Open to junior dev roles, especially those involving automation, internal tools, or applied AI.
+| Project | Description | Highlights |
+|--------|-------------|------------|
+| **[easywebs.uk](https://easywebs.uk)** | Responsive React/Tailwind site for my freelance studio | CMS integration, client automations |
+| **[Boost.dev](https://github.com/Lochy2000/boost.dev)** | Hackathon-winning wellness app using LLMs | FastAPI backend, Tailwind UI, LLM prompts |
+| **[HustleDev](https://github.com/Lochy2000)** | AI-powered side-hustle idea generator | Gemini API, Firebase, multi-agent pipelines |
+| **[FreneticFocus](https://github.com/Lochy2000/frenticfocus)** | Drag-and-drop WordPress theme builder | Custom Gutenberg blocks, UX-focused |
+| **[AlgoranAnarchy](https://github.com/Lochy2000)** | Blockchain dashboard & token tracker | Algorand API, React realtime stats |
+
+Want to explore more? Check out my GitHub profile for additional repos and ongoing projects.
 
 ---
 
-📬 **Get in touch**  
-Email: lochlann_oht@hotmail.com  
-LinkedIn: [linkedin.com/in/lochy-dev](https://www.linkedin.com/in/lochy-dev)
+## 📊 GitHub Activity
 
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lochy2000&show_icons=true&theme=react&count_private=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lochy2000&layout=compact&theme=react" />
 
+---
 
-<!---
-Lochy2000/Lochy2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌱 Currently Learning & Working On
+- Exploring multi-agent AI tooling with FastAPI and LLMs like Gemini
+- Improving internal dev tooling and workflow automation
+- Setting up continuous deployment and WakaTime GitHub Action
+
+---
+
+## 📬 Get in Touch
+
+- Email: lochlann_oht@hotmail.com  
+- LinkedIn: [linkedin.com/in/lochy-dev](https://www.linkedin.com/in/lochy-dev)
+
+---
+
+*Inspired by the [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)*  
