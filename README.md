@@ -1,8 +1,10 @@
 # 👋 Hey, I'm Lochlann
 
-🎯 **Frontend Developer | AI-Augmented Builder | Hackathon Winner**  
-💡 Self-taught & Code Institute Grad | Passionate about automation & real-world tooling  
-🌍 Remote-ready · Based in London, UK
+**Frontend Developer | AI-Augmented Builder | Hackathon Winner**  
+Self-taught & Code Institute Grad | Passionate about automation & real-world tooling  
+Remote-ready · Based in London, UK
+Junior dev spitting out side projects like I’m being sponsored (I’m not).
+If it compiles, ships, or breaks dramatically — I’m probably behind it.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lochy-dev)
 [![GitHub followers](https://img.shields.io/github/followers/Lochy2000?label=Follow&style=social)](https://github.com/Lochy2000)
