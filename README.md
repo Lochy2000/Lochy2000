@@ -49,6 +49,9 @@ Want to explore more? Check out my GitHub profile for additional repos and ongoi
 - Setting up continuous deployment and WakaTime GitHub Action
 
 ---
+## My Build Process
+
+![lochy-pepe2](https://github.com/user-attachments/assets/a9c13ace-43e2-46b6-a9c0-204e69392793)
 
 ## 📬 Get in Touch
 
