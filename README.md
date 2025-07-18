@@ -30,9 +30,9 @@ If it compiles, ships, or breaks dramatically — I’m probably behind it.
 |--------|-------------|------------|
 | **[easywebs.uk](https://easywebs.uk)** | Responsive React/Tailwind site for my freelance studio | CMS integration, client automations |
 | **[Boost.dev](https://github.com/Lochy2000/boost.dev)** | Hackathon-winning wellness app using LLMs | FastAPI backend, Tailwind UI, LLM prompts |
-| **[HustleDev](https://github.com/Lochy2000)** | AI-powered side-hustle idea generator | Gemini API, Firebase, multi-agent pipelines |
+| **[HustleDev](https://github.com/Lochy2000/HussleDev)** | AI-powered side-hustle idea generator | Gemini API, Firebase, multi-agent pipelines |
 | **[FreneticFocus](https://github.com/Lochy2000/frenticfocus)** | Drag-and-drop WordPress theme builder | Custom Gutenberg blocks, UX-focused |
-| **[AlgoranAnarchy](https://github.com/Lochy2000)** | Blockchain dashboard & token tracker | Algorand API, React realtime stats |
+| **[AlgoranAnarchy](https://github.com/Lochy2000/AlgoranArchy)** | Blockchain dashboard & token tracker | Algorand API, React realtime stats |
 
 Want to explore more? Check out my GitHub profile for additional repos and ongoing projects.
 
