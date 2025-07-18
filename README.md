@@ -8,7 +8,7 @@ If it compiles, ships, or breaks dramatically — I’m probably behind it.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lochy-dev)
 [![GitHub followers](https://img.shields.io/github/followers/Lochy2000?label=Follow&style=social)](https://github.com/Lochy2000)
-![Visits](https://visitor-badge.deno.dev/badge?page_id=Lochy2000)
+![Visits](https://visitor-badge.laobi.icu/badge?page_id=Lochy2000.github.io)
 
 ---
 
