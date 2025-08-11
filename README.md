@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Lochlann
 
-**Frontend Developer | AI-Augmented Builder | Hackathon Winner**  
+**Frontend Developer | AI-Augmented Builder | Hackathon Enthusiast**  
 Self-taught & Code Institute Grad | Passionate about automation & real-world tooling  
 Remote-ready · Based in London, UK
 Junior dev spitting out side projects like I’m being sponsored (I’m not).
