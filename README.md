@@ -3,7 +3,8 @@
 **Frontend Developer | AI-Augmented Builder | Hackathon Enthusiast**  
 Self-taught & Code Institute Grad | Passionate about automation & real-world tooling  
 Remote-ready · Based in London, UK
-Junior dev spitting out side projects, working on opensource projects and freelance jobs. 
+Junior dev spitting out side projects, working on opensource projects and freelance jobs.
+
 The secrets in the sauce.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lochy-dev)
