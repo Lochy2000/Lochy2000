@@ -41,21 +41,17 @@ Want to explore more? Check out my GitHub profile for additional repos and ongoi
 
 ## 📊 GitHub Activity
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lochy2000&show_icons=true&theme=react&count_private=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lochy2000&layout=compact&theme=react" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lochy2000&show_icons=true&theme=react&count_private=true" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lochy2000&layout=compact&theme=react" />
+
 
 ---
 
-## 🌱 Currently Learning & Working On
+## Currently Learning & Working On
 - Exploring multi-agent AI tooling with FastAPI and LLMs like Gemini
 - Improving internal dev tooling and workflow automation
 - Setting up continuous deployment and WakaTime GitHub Action
 
 ---
-## My Build Process
-
-![lochy-pepe2](https://github.com/user-attachments/assets/a9c13ace-43e2-46b6-a9c0-204e69392793)
-
 ## 📬 Get in Touch
 
 - Email: lochlann_oht@hotmail.com  
