@@ -1,11 +1,5 @@
 # 👋 Hey, I'm Lochlann
 
-**Developer | AI-Augmented Builder | Hackathon Enthusiast**  
-Study a MSC soft engineering at city of london
-Self-taught | Passionate about automation & real-world tooling  
-Remote-ready · Based in London, UK 
-Junior dev spitting out side projects, working on opensource projects and freelance jobs.
-
 The secrets in the sauce.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lochy-dev)
@@ -26,17 +20,6 @@ The secrets in the sauce.
 
 ---
 
-## 🛠️ Featured Projects
-
-| Project | Description | Highlights |
-|--------|-------------|------------|
-| **[easywebs.uk](https://easywebs.uk)** | Responsive React/Tailwind site for my freelance studio | CMS integration, client automations |
-| **[Boost.dev](https://github.com/Lochy2000/boost.dev)** | Hackathon-winning wellness app using LLMs | FastAPI backend, Tailwind UI, LLM prompts |
-| **[HustleDev](https://github.com/Lochy2000/HussleDev)** | AI-powered side-hustle idea generator | Gemini API, Firebase, multi-agent pipelines |
-| **[FreneticFocus](https://github.com/Lochy2000/frenticfocus)** | Drag-and-drop WordPress theme builder | Custom Gutenberg blocks, UX-focused |
-| **[AlgoranAnarchy](https://github.com/Lochy2000/AlgoranArchy)** | Blockchain dashboard & token tracker | Algorand API, React realtime stats |
-
-Want to explore more? Check out my GitHub profile for additional repos and ongoing projects.
 
 ---
 
@@ -45,6 +28,11 @@ Want to explore more? Check out my GitHub profile for additional repos and ongoi
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lochy2000&show_icons=true&theme=react&count_private=true" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lochy2000&layout=compact&theme=react" />
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jingyaogong/jingyaogong/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jingyaogong/jingyaogong/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jingyaogong/jingyaogong/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 ## Currently Learning & Working On
