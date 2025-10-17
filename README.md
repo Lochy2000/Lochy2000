@@ -1,8 +1,9 @@
 # 👋 Hey, I'm Lochlann
 
-**Frontend Developer | AI-Augmented Builder | Hackathon Enthusiast**  
-Self-taught & Code Institute Grad | Passionate about automation & real-world tooling  
-Remote-ready · Based in London, UK
+**Developer | AI-Augmented Builder | Hackathon Enthusiast**  
+Study a MSC soft engineering at city of london
+Self-taught | Passionate about automation & real-world tooling  
+Remote-ready · Based in London, UK 
 Junior dev spitting out side projects, working on opensource projects and freelance jobs.
 
 The secrets in the sauce.
@@ -56,7 +57,8 @@ Want to explore more? Check out my GitHub profile for additional repos and ongoi
 
 - Email: lochlann_oht@hotmail.com  
 - LinkedIn: [linkedin.com/in/lochy-dev](https://www.linkedin.com/in/lochy-dev)
-
+  
+<a href="https://app.daily.dev/lochlannohiggins"><img src="https://api.daily.dev/devcards/v2/9Yzi1GaGqMjhub78dvccw.png?type=wide&r=pse" width="652" alt="lochlann O'higgins's Dev Card"/></a>
 ---
 
 *Inspired by the [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)*  
