@@ -21,11 +21,8 @@ The secrets in the sauce.
 ---
 
 
----
-
 ## 📊 GitHub Activity
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lochy2000&show_icons=true&theme=react&count_private=true" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lochy2000&layout=compact&theme=react" />
 
 
 <picture>
