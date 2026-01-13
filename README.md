@@ -8,7 +8,7 @@ The secrets in the sauce.
 
 ---
 
-## 🔧 Tech Snapshot
+##  Tech Snapshot
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30"/>
@@ -17,11 +17,6 @@ The secrets in the sauce.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30"/>
 </p>
-
----
-
-
-## 📊 GitHub Activity
 
 
 
