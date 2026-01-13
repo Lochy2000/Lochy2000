@@ -35,7 +35,7 @@ The secrets in the sauce.
 ## Currently Learning & Working On
 - Exploring multi-agent AI tooling with FastAPI and LLMs like Gemini
 - Improving internal dev tooling and workflow automation
-- Setting up continuous deployment and WakaTime GitHub Action
+- Setting up continuous deployment
 
 ---
 ## 📬 Get in Touch
